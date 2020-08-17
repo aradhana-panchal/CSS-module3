@@ -1,0 +1,32 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+       background-color: #F6DDCC;
+    }
+
+
+h2 {
+  color: Solid-black;
+  text-align: center;
+  
+}
+
+h3 {
+  color: black;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  background-color: lightgrey;
+  width: 300px;
+  padding: 20px;
+  margin: 20px;
+  text-align: left;
+}
+     
